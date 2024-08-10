@@ -1,6 +1,7 @@
 [book]
 title = "学习 eBPF"
 language = "zh-CN"
+[preprocessor.alerts]
 [preprocessor.pagetoc]
 [output.html]
 additional-css = ["theme/pagetoc.css"]

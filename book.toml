@@ -2,9 +2,13 @@
 title = "学习 eBPF"
 language = "zh-CN"
 edit-url-template = "https://github.com/binw666/learning-ebpf/edit/main/src/{path}"
+git-repository-url = "https://github.com/binw666/learning-ebpf"
+
 [preprocessor.alerts]
 [preprocessor.pagetoc]
 [output.html]
 additional-css = ["theme/pagetoc.css"]
 additional-js  = ["theme/pagetoc.js"]
-git-repository-url = "https://github.com/binw666/learning-ebpf"
+
+[output.html.playground]
+editable = true

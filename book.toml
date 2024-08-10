@@ -1,6 +1,7 @@
 [book]
 title = "学习 eBPF"
 language = "zh-CN"
+edit-url-template = "https://github.com/binw666/learning-ebpf/edit/main/src/{path}"
 [preprocessor.alerts]
 [preprocessor.pagetoc]
 [output.html]
